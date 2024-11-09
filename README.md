@@ -7,57 +7,57 @@
 
 ### Question 1
 **What is the first step for installing Dart on a Windows machine?**  
-Answer: **B**
+**B**
 
 ### Question 2
 **Which command verifies the Dart installation on macOS?**  
-Answer: **D**
+**D**
 
 ### Question 3
 **What is the next step after downloading and extracting the Flutter SDK on Linux?**  
-Answer: **B**
+**B**
 
 ### Question 4
 **What command is used to run a newly created Flutter app?**  
-Answer: **C**
+**C**
 
 ### Question 5
 **What is the first step to install Python on a Windows system?**  
-Answer: **B**
+**B**
 
 ### Question 6
 **Which option should you ensure is checked during Python installation on Windows?**  
-Answer: **C**
+**C**
 
 ### Question 7
 **How do you verify Python installation on any system?**  
-Answer: **A**
+**A**
 
 ### Question 8
 **What command is used to install pip on macOS and Linux?**  
-Answer: **C**
+**C**
 
 ### Question 9
 **What is the purpose of a virtual environment in Python?**  
-Answer: **C**
+**C**
 
 ### Question 10
 **What is the first step to install MySQL on Windows?**  
-Answer: **B**
+**B**
 
 ### Question 11
 **What setup type should you choose for a custom MySQL installation?**  
-Answer: **D**
+**D**
 
 ### Question 12
 **Which products should you select during the MySQL installation?**  
-Answer: **A**
+ **A**
 
 ### Question 13
 **What is the purpose of setting a root password during MySQL installation?**  
-Answer: **B**
+**B**
 
 ### Question 14
 **How do you begin managing your database after installing MySQL?**  
-Answer: **B**
+**B**
 
