@@ -1,60 +1,64 @@
 {
-    "questions": [
+    "Dart & Flutter": [
       {
         "question": "What is the first step for installing Dart on a Windows machine?",
-        "answer": "B"
+        "answer": "C) Update your PATH "
       },
       {
         "question": "Which command verifies the Dart installation on macOS?",
-        "answer": "D"
+        "answer": "D) dart --version"
       },
       {
         "question": "What is the next step after downloading and extracting the Flutter SDK on Linux?",
-        "answer": "B"
+        "answer": "B) Update your PATH "
       },
       {
         "question": "What command is used to run a newly created Flutter app?",
-        "answer": "C"
-      },
+        "answer": "C) flutter run "
+      }
+    ],
+    "Python Installation": [
       {
         "question": "What is the first step to install Python on a Windows system?",
-        "answer": "B"
+        "answer": "B) Download Python from the official website "
       },
       {
         "question": "Which option should you ensure is checked during Python installation on Windows?",
-        "answer": "C"
+        "answer": "C) Add Python to PATH "
       },
       {
         "question": "How do you verify Python installation on any system?",
-        "answer": "A"
+        "answer": "A) By running python --version "
       },
       {
         "question": "What command is used to install pip on macOS and Linux?",
-        "answer": "C"
+        "answer": "C) curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py "
       },
       {
         "question": "What is the purpose of a virtual environment in Python?",
-        "answer": "C"
-      },
+        "answer": "C) To separate project dependencies and avoid conflicts "
+      }
+    ],
+    "MySQL Installation": [
       {
         "question": "What is the first step to install MySQL on Windows?",
-        "answer": "B"
+        "answer": "B) Download MySQL Installer from the official website "
       },
       {
         "question": "What setup type should you choose for a custom MySQL installation?",
-        "answer": "D"
+        "answer": "D) Custom"
       },
       {
         "question": "Which products should you select during the MySQL installation?",
-        "answer": "A"
+        "answer": "A) MySQL Server, MySQL Workbench, and MySQL Shell "
       },
       {
         "question": "What is the purpose of setting a root password during MySQL installation?",
-        "answer": "B"
+        "answer": "B) To secure your MySQL installation with a super-secret password "
       },
       {
         "question": "How do you begin managing your database after installing MySQL?",
-        "answer": "B"
+        "answer": "B) Launch MySQL Workbench and connect to your MySQL Server "
       }
     ]
   }
