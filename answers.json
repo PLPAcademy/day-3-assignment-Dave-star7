@@ -1,0 +1,61 @@
+{
+    "questions": [
+      {
+        "question": "What is the first step for installing Dart on a Windows machine?",
+        "answer": "B"
+      },
+      {
+        "question": "Which command verifies the Dart installation on macOS?",
+        "answer": "D"
+      },
+      {
+        "question": "What is the next step after downloading and extracting the Flutter SDK on Linux?",
+        "answer": "B"
+      },
+      {
+        "question": "What command is used to run a newly created Flutter app?",
+        "answer": "C"
+      },
+      {
+        "question": "What is the first step to install Python on a Windows system?",
+        "answer": "B"
+      },
+      {
+        "question": "Which option should you ensure is checked during Python installation on Windows?",
+        "answer": "C"
+      },
+      {
+        "question": "How do you verify Python installation on any system?",
+        "answer": "A"
+      },
+      {
+        "question": "What command is used to install pip on macOS and Linux?",
+        "answer": "C"
+      },
+      {
+        "question": "What is the purpose of a virtual environment in Python?",
+        "answer": "C"
+      },
+      {
+        "question": "What is the first step to install MySQL on Windows?",
+        "answer": "B"
+      },
+      {
+        "question": "What setup type should you choose for a custom MySQL installation?",
+        "answer": "D"
+      },
+      {
+        "question": "Which products should you select during the MySQL installation?",
+        "answer": "A"
+      },
+      {
+        "question": "What is the purpose of setting a root password during MySQL installation?",
+        "answer": "B"
+      },
+      {
+        "question": "How do you begin managing your database after installing MySQL?",
+        "answer": "B"
+      }
+    ]
+  }
+  
