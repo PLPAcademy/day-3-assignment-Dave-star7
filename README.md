@@ -19,9 +19,9 @@ D) Run Dart Doctor
 A) dart --install
 B) dart --check
 C) dart --verify
-D) dart --version
+<mark>D) dart --version
 
-Answer: D) dart --version
+
 
 
 3. What is the next step after downloading and extracting the Flutter SDK on Linux?
