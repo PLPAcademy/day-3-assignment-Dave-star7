@@ -63,6 +63,3 @@
 
 ---
 
-## Notes for Autograding:
-- Ensure your answers are in the exact format as specified.
-- This `README.md` is designed to ensure compatibility with the autograding configuration as defined in the GitHub Actions YAML.
